@@ -4,3 +4,6 @@ This line was added after first commit.
 
 #adding something after cloning
 This line was added after cloning repo from github.
+
+# adding new branch
+feture branch content added here
