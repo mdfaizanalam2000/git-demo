@@ -6,4 +6,4 @@ This line was added after first commit.
 This line was added after cloning repo from github.
 
 # adding new branch
-feture branch content added here
+feature branch content added here
